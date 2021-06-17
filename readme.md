@@ -13,3 +13,5 @@ Iremos refazer um teclado parecido ao exemplo dado em [https://tonejs.github.io/
 - As teclas devem ser acionadas pelo teclado seguindo a ordem 'a', 's', 'd', 'f', 'g', 'h', 'j' para as brancas e 'w', 'e', 't', 'y', 'u' para as teclas pretas
 - Ao acionar a tecla deverá ser emitida a nota respectiva ao código html da aplicação encontrado na tag "data-note"
 - Feedbacks visuais de quando pressionarmos as teclas são um diferencial, podem ser implementados com a classe .active!
+
+![Imagem do teclado](https://github.com/thiagopinheirolima/multimidia/blob/master/teclado.png?raw=true)
